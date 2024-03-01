@@ -1,5 +1,5 @@
 # Namebase Bulk Offer
-Sends bulk offers for available names on Namebase. Cleans various inputs and allows a set price for all offers than can be individually overriden.
+Sends bulk offers for available names on Namebase. Cleans various inputs and allows a set price for all offers that can be individually overriden.
 
 Examples of inputs that are cleaned and accepted:
 
