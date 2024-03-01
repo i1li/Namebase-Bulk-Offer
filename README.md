@@ -14,9 +14,9 @@ In all those cases you can add a comma followed by a price to the end of any nam
 ## Directions
 There are two options:
 
-1. The most convenient is the bookmarklet method. Just create a new bookmark with any name like 'offer'. Copy and paste the contents of offer-bookmarklet.js into the URL field. (made from offer.js with ['bookmarkletify' VS Code extension](https://marketplace.visualstudio.com/items?itemName=saasan.bookmarkletify).
+1. The most convenient is the bookmarklet method. Just create a new bookmark with any name like 'offer'. Copy and paste the contents of offer-bookmarklet.js into the URL field. (made from offer.js with ['bookmarkletify' VS Code extension](https://marketplace.visualstudio.com/items?itemName=saasan.bookmarkletify). Then just open the bookmark in any tab where you're signed into Namebase.
    
-2. Copy and paste contents of offer.js into browser dev tools console.
+2. Copy and paste contents of offer.js into browser dev tools console in any tab where you're signed into Namebase.
 
 ### Other Handshake related things I made:
 [Punytag](https://github.com/i1li/punytag) - Unicode, Punycode, tagging, and page creation for Handshake name porfolios.
